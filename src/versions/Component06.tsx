@@ -4,7 +4,7 @@ ErrorBoundary Testing
 
 */
 
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 
 const Component06 = () => {
   // This doesn't trigger ErrorBoundary because asynchronous errors are not catched by ErrorBoundary.

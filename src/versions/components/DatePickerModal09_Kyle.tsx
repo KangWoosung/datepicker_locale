@@ -12,7 +12,7 @@ import {
   startOfMonth,
   startOfWeek,
 } from "date-fns";
-import React, { useState } from "react";
+import { useState } from "react";
 import WeekDays09_Locale from "./WeekDays09_Locale";
 import MonthDays09_Locale from "./MonthDays09_Locale";
 
